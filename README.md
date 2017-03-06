@@ -2,7 +2,7 @@
 Open source server for BAT-433 devices.
 
 ## How-To:
-```
+```cs
 public static void Main()
 {
     BluetoothRadarServer radarServer = new BluetoothRadarServer();
